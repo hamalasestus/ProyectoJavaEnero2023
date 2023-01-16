@@ -12,6 +12,6 @@ package com.mycompany.ejemplojava2023;
 public class EjemploJava2023 {
 
     public static void main(String[] args) {
-        System.out.println("Epi: ¡hola Blas!");
+        System.out.println("Epi: ¡hola Blas!\n Blas: ¡hola Epi!");
     }
 }
